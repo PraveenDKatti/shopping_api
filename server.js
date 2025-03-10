@@ -1,6 +1,15 @@
 const express = require('express');
+const cors = require('cors'); // Import cors package
+
 const app = express();
 const PORT = process.env.PORT || 3000;
+
+// Enable CORS for your frontend
+app.use(cors({
+    origin: "http://localhost:5173", // Allow your frontend URL
+    methods: "GET,POST,PUT,DELETE",
+    allowedHeaders: "Content-Type,Authorization"
+}));
 
 // Import the items routes
 const itemsRoutes = require('./routes/items');
