@@ -1,198 +1,183 @@
 [
-    { "id": 1, "title": "Classic Polo T-Shirt", "price": 599, "category": "summer", "image": "https://images.pexels.com/photos/428340/pexels-photo-428340.jpeg", "color": "White", "quantity": 20, "gender": "Men", "brand": "PoloStyle", "type": "T-Shirt" },
-    { "id": 2, "title": "Denim Jacket", "price": 1999, "category": "winter", "image": "https://images.pexels.com/photos/845434/pexels-photo-845434.jpeg", "color": "Blue", "quantity": 15, "gender": "Women", "brand": "DenimCo", "type": "Jacket" },
-    { "id": 3, "title": "Running Shoes", "price": 2499, "category": "sports", "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg", "color": "Black", "quantity": 30, "gender": "Unisex", "brand": "RunFast", "type": "Shoes" },
-    { "id": 4, "title": "Leather Wallet", "price": 899, "category": "accessories", "image": "https://images.pexels.com/photos/1303089/pexels-photo-1303089.jpeg", "color": "Brown", "quantity": 25, "gender": "Men", "brand": "LeatherPro", "type": "Wallet" },
-    { "id": 5, "title": "Floral Summer Dress", "price": 1499, "category": "summer", "image": "https://images.pexels.com/photos/2065196/pexels-photo-2065196.jpeg", "color": "Red", "quantity": 18, "gender": "Women", "brand": "FashionTrend", "type": "Dress" },
-    { "id": 6, "title": "Slim Fit Jeans", "price": 1699, "category": "casual", "image": "https://images.pexels.com/photos/4210866/pexels-photo-4210866.jpeg", "color": "Blue", "quantity": 22, "gender": "Men", "brand": "DenimX", "type": "Jeans" },
-    { "id": 7, "title": "Cargo Pants", "price": 1299, "category": "casual", "image": "https://images.pexels.com/photos/16785439/pexels-photo-16785439.jpeg", "color": "Green", "quantity": 17, "gender": "Men", "brand": "UrbanWear", "type": "Pants" },
-    { "id": 8, "title": "Athletic Leggings", "price": 1199, "category": "sports", "image": "https://images.pexels.com/photos/4326896/pexels-photo-4326896.jpeg", "color": "Black", "quantity": 20, "gender": "Women", "brand": "FlexFit", "type": "Leggings" },
-    { "id": 9, "title": "Formal Trousers", "price": 1899, "category": "formal", "image": "https://images.pexels.com/photos/3772516/pexels-photo-3772516.jpeg", "color": "Gray", "quantity": 12, "gender": "Men", "brand": "ExecutiveStyle", "type": "Trousers" },
-    { "id": 10, "title": "Summer Shorts", "price": 799, "category": "casual", "image": "https://images.pexels.com/photos/3965521/pexels-photo-3965521.jpeg", "color": "Beige", "quantity": 25, "gender": "Men", "brand": "CasualVibe", "type": "Shorts" },
-    { "id": 11, "title": "Casual Hoodie", "price": 2299, "category": "winter", "image": "https://images.pexels.com/photos/3657429/pexels-photo-3657429.jpeg", "color": "Gray", "quantity": 16, "gender": "Unisex", "brand": "CozyWear", "type": "Hoodie" },
-    { "id": 12, "title": "Striped Cotton Shirt", "price": 1399, "category": "formal", "image": "https://images.pexels.com/photos/955888/pexels-photo-955888.jpeg", "color": "White & Blue", "quantity": 14, "gender": "Men", "brand": "ClassicStyle", "type": "Shirt" },
-    { "id": 13, "title": "Printed Saree", "price": 2599, "category": "traditional", "image": "https://images.pexels.com/photos/2765170/pexels-photo-2765170.jpeg", "color": "Pink", "quantity": 10, "gender": "Women", "brand": "EthnicVibe", "type": "Saree" },
-    { "id": 14, "title": "Sports Cap", "price": 499, "category": "accessories", "image": "https://images.pexels.com/photos/42165/pexels-photo-42165.jpeg", "color": "Red", "quantity": 30, "gender": "Unisex", "brand": "Sporty", "type": "Cap" },
-    { "id": 15, "title": "Wrist Watch", "price": 3499, "category": "accessories", "image": "https://images.pexels.com/photos/277390/pexels-photo-277390.jpeg", "color": "Black", "quantity": 8, "gender": "Men", "brand": "TimeMaster", "type": "Watch" },
+    { "id": 1, "title": "Classic Polo T-Shirt", "price": 599, "category": "summer", "image": "https://classicpolos.com/cdn/shop/files/1_febffc10-b17c-4b6c-a928-165949e91bf7.jpg?", "color": "White", "quantity": 20, "gender": "Men", "brand": "PoloStyle" },
+    { "id": 2, "title": "Denim Jacket", "price": 1999, "category": "winter", "image": "https://assets.ajio.com/medias/sys_master/root/20240906/XN2x/66dada2b1d763220faca109e/-1117Wx1400H-442660016-mediumblue-MODEL.jpg", "color": "Blue", "quantity": 15, "gender": "Women", "brand": "DenimCo" },
+    { "id": 3, "title": "Running Shoes", "price": 2499, "category": "sports", "image": "https://rukminim2.flixcart.com/image/832/832/k5fn3ww0/shoe/f/6/9/ar-203-7-runfast-grey-original-imafnwjhwd5umaxb.jpeg", "color": "Black", "quantity": 30, "gender": "Unisex", "brand": "RunFast" },
+    { "id": 4, "title": "Leather Wallet", "price": 899, "category": "accessories", "image": "https://imagescdn.louisphilippe.com/img/app/product/6/670304-6924404.jpg", "color": "Brown", "quantity": 25, "gender": "Men", "brand": "LeatherPro" },
+    { "id": 5, "title": "Floral Summer Dress", "price": 1499, "category": "summer", "image": "https://mediahub.oasisfashion.com/m5063282069498_red_xl.jpeg", "color": "Red", "quantity": 18, "gender": "Women", "brand": "FashionTrend" },
+    { "id": 6, "title": "Slim Fit Jeans", "price": 1699, "category": "casual", "image": "https://assets.ajio.com/medias/sys_master/root/20230629/7OAI/649cd7e0a9b42d15c91ce3eb/-1117Wx1400H-466032127-blue-MODEL2.jpg", "color": "Blue", "quantity": 22, "gender": "Men", "brand": "DenimX" },
+    { "id": 7, "title": "Cargo Pants", "price": 1299, "category": "casual", "image": "https://www.beyoung.in/api/cache/catalog/products/new_chinos_update_image_23_9_2022/dark_green_cut_and_sew_cargo_pants_front_view_04_10_2024_700x933.jpg", "color": "Green", "quantity": 17, "gender": "Men", "brand": "UrbanWear" },
+    { "id": 8, "title": "Athletic Leggings", "price": 1199, "category": "sports", "image": "https://i0.wp.com/nexgoindustries.com/wp-content/uploads/2024/03/1.webp", "color": "Black", "quantity": 20, "gender": "Women", "brand": "FlexFit" },
+    { "id": 9, "title": "Formal Trousers", "price": 1899, "category": "formal", "image": "https://assets.ajio.com/medias/sys_master/root/20231209/KPxu/657396dbddf7791519bea7cf/-473Wx593H-466865684-grey-MODEL4.jpg", "color": "Gray", "quantity": 12, "gender": "Men", "brand": "ExecutiveStyle" },
+    { "id": 10, "title": "Summer Shorts", "price": 799, "category": "casual", "image": "https://www.iconicindia.com/cdn/shop/files/8907361677730_4.jpg", "color": "Beige", "quantity": 25, "gender": "Men", "brand": "CasualVibe" },
+    { "id": 11, "title": "Casual Hoodie", "price": 2299, "category": "winter", "image": "https://i5.walmartimages.com/asr/b87e3730-f5d8-4489-ac50-dd594435a1f2.f744c1f65964c239ed343968a5824fdd.jpeg", "color": "Gray", "quantity": 16, "gender": "Unisex", "brand": "CozyWear" },
+    { "id": 12, "title": "Striped Cotton Shirt", "price": 1399, "category": "formal", "image": "https://assets.ajio.com/medias/sys_master/root/20240228/6VZy/65df375916fd2c6e6a285e80/-473Wx593H-467118969-blue-MODEL2.jpg", "color": "White & Blue", "quantity": 14, "gender": "Men", "brand": "ClassicStyle" },
+    { "id": 13, "title": "Printed Saree", "price": 2599, "category": "traditional", "image": "https://www.ethnicplus.in/media/catalog/product/cache/52dd409f45ea6af9973d8318037be7e6/a/c/acz5053.jpg", "color": "Pink", "quantity": 10, "gender": "Women", "brand": "EthnicVibe" },
+    { "id": 14, "title": "Sports Cap", "price": 499, "category": "accessories", "image": "https://m.media-amazon.com/images/I/51gAhdijjhL._AC_SX679_.jpg", "color": "Red", "quantity": 30, "gender": "Unisex", "brand": "Sporty" },
+    { "id": 15, "title": "Wrist Watch", "price": 3499, "category": "accessories", "image": "https://benling.in/cdn/shop/files/BL-1024-BLK_1_2_611x@2x.progressive.jpg", "color": "Black", "quantity": 8, "gender": "Men", "brand": "TimeMaster" },
 
   {"id": 16,
     "title": "Leather Handbag",
     "price": 2999,
     "category": "accessories",
-    "image": "https://images.pexels.com/photos/769092/pexels-photo-769092.jpeg",
+    "image": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dwa14c9ab7/images/large/01_32001750013_1.jpg",
     "color": "Brown",
     "quantity": 10,
     "gender": "Women",
-    "brand": "EliteBags",
-    "type": "Handbag"
+    "brand": "EliteBags"
   },
   {
     "id": 17,
     "title": "High Heels",
     "price": 2799,
     "category": "footwear",
-    "image": "https://images.pexels.com/photos/1115125/pexels-photo-1115125.jpeg",
+    "image": "https://i5.walmartimages.com/asr/7b84f482-a079-422c-9aaa-cebad1feb065.fa8144f9a286593a0a7ed255ac41dfac.jpeg",
     "color": "Red",
     "quantity": 15,
     "gender": "Women",
-    "brand": "GlamStyle",
-    "type": "Heels"
+    "brand": "GlamStyle"
   },
   {
     "id": 18,
     "title": "Aviator Sunglasses",
     "price": 1999,
     "category": "accessories",
-    "image": "https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg",
+    "image": "https://jokerandwitch.com/cdn/shop/files/JWSG110_2_1800x1800.jpg",
     "color": "Black",
     "quantity": 25,
     "gender": "Unisex",
-    "brand": "ShadyVision",
-    "type": "Sunglasses"
+    "brand": "ShadyVision"
   },
   {
     "id": 19,
     "title": "Casual Sneakers",
     "price": 2299,
     "category": "footwear",
-    "image": "https://images.pexels.com/photos/2529147/pexels-photo-2529147.jpeg",
+    "image": "https://img.tatacliq.com/images/i18//437Wx649H/MP000000022742851_437Wx649H_202406290122076.jpeg",
     "color": "White",
     "quantity": 20,
     "gender": "Unisex",
-    "brand": "UrbanSteps",
-    "type": "Shoes"
+    "brand": "UrbanSteps"
   },
   {
     "id": 20,
     "title": "Woolen Scarf",
     "price": 999,
     "category": "winter",
-    "image": "https://images.pexels.com/photos/207943/pexels-photo-207943.jpeg",
+    "image": "https://woollen-wear.in/image/cache/data/accessories/mufflers/purewool/m932_black-550x700.JPG",
     "color": "Gray",
     "quantity": 18,
     "gender": "Unisex",
-    "brand": "WarmTouch",
-    "type": "Scarf"
+    "brand": "WarmTouch"
   },
   {
     "id": 21,
     "title": "Ethnic Kurta",
     "price": 1899,
     "category": "traditional",
-    "image": "https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg",
+    "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/19952438/2022/9/14/81c85a0e-ddad-4d0b-b649-5cd9714ab03e1663144762603evenMenYellowThreadWorkKurta1.jpg",
     "color": "Yellow",
     "quantity": 12,
     "gender": "Men",
-    "brand": "EthnicWear",
-    "type": "Kurta"
+    "brand": "EthnicWear"
   },
   {
     "id": 22,
     "title": "Gym T-Shirt",
     "price": 999,
     "category": "sports",
-    "image": "https://images.pexels.com/photos/3253501/pexels-photo-3253501.jpeg",
+    "image": "https://fitkin.in/cdn/shop/products/1_2a5428b8-d6a2-47fb-b9b3-0c21fb9c7b86.jpg",
     "color": "Black",
     "quantity": 22,
     "gender": "Men",
-    "brand": "FitWear",
-    "type": "T-Shirt"
+    "brand": "FitWear"
   },
   {
     "id": 23,
     "title": "Jogger Pants",
     "price": 1499,
     "category": "casual",
-    "image": "https://images.pexels.com/photos/2878707/pexels-photo-2878707.jpeg",
+    "image": "https://cdn1.staticans.com/image/data/Vastrado/3-nov-2023/MJ3484C_6.jpg",
     "color": "Gray",
     "quantity": 20,
     "gender": "Men",
-    "brand": "StreetVibe",
-    "type": "Pants"
+    "brand": "StreetVibe"
   },
   {
     "id": 24,
     "title": "Trench Coat",
     "price": 3499,
     "category": "winter",
-    "image": "https://images.pexels.com/photos/3120627/pexels-photo-3120627.jpeg",
+    "image": "https://assets.christiandior.com/is/image/diorprod/841M55A3332X1700_E01-1",
     "color": "Beige",
     "quantity": 10,
     "gender": "Women",
-    "brand": "ElegantWear",
-    "type": "Coat"
+    "brand": "ElegantWear"
   },
   {
     "id": 25,
     "title": "Beach Hat",
     "price": 799,
     "category": "summer",
-    "image": "https://images.pexels.com/photos/1147618/pexels-photo-1147618.jpeg",
+    "image": "https://americanhatmakers.com/cdn/shop/files/Johvan-Natural-Straw-Sun-Hat-Ladies-SS23-American-Hat-Makers_3.webp",
     "color": "Beige",
     "quantity": 30,
     "gender": "Women",
-    "brand": "SunnyVibes",
-    "type": "Hat"
+    "brand": "SunnyVibes"
   },
   {
     "id": 26,
     "title": "Smartwatch",
     "price": 4999,
     "category": "electronics",
-    "image": "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg",
+    "image": "https://cyber-techwear.com/cdn/shop/products/product-image-1976673464.jpg",
     "color": "Black",
     "quantity": 15,
     "gender": "Unisex",
-    "brand": "TechWear",
-    "type": "Watch"
+    "brand": "TechWear"
   },
   {
     "id": 27,
     "title": "Party Gown",
     "price": 4599,
     "category": "party",
-    "image": "https://images.pexels.com/photos/994089/pexels-photo-994089.jpeg",
+    "image": "https://cdn.sareesaga.com/image/cache/product-2025/purple-color-designer-gown-282293-1000x1375.jpg",
     "color": "Purple",
     "quantity": 8,
     "gender": "Women",
-    "brand": "GlamGown",
-    "type": "Dress"
+    "brand": "GlamGown"
   },
   {
     "id": 28,
     "title": "Leather Belt",
     "price": 1299,
     "category": "accessories",
-    "image": "https://images.pexels.com/photos/2534967/pexels-photo-2534967.jpeg",
+    "image": "https://d1pdzcnm6xgxlz.cloudfront.net/fashionaccesories/8905875204817-9.jpg",
     "color": "Black",
     "quantity": 18,
     "gender": "Men",
-    "brand": "ClassicLeather",
-    "type": "Belt"
+    "brand": "ClassicLeather"
   },
   {
     "id": 29,
     "title": "Woolen Gloves",
     "price": 999,
     "category": "winter",
-    "image": "https://images.pexels.com/photos/166148/pexels-photo-166148.jpeg",
+    "image": "https://woollen-wear.in/image/cache/data/accessories/men/gloves/h720/h720_lightgrey_front-550x700.JPG",
     "color": "Gray",
     "quantity": 25,
     "gender": "Unisex",
-    "brand": "WarmHands",
-    "type": "Gloves"
+    "brand": "WarmHands"
   },
   {
     "id": 30,
     "title": "Casual Backpack",
     "price": 2799,
     "category": "accessories",
-    "image": "https://images.pexels.com/photos/91691/pexels-photo-91691.jpeg",
+    "image": "https://img.tatacliq.com/images/i19//437Wx649H/MP000000023320093_437Wx649H_202408152137541.jpeg",
     "color": "Blue",
     "quantity": 15,
     "gender": "Unisex",
-    "brand": "TravelEase",
-    "type": "Backpack"
+    "brand": "TravelEase"
   },
   {
     "id": 31,
