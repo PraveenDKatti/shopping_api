@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3000;
 
 // Enable CORS for your frontend
 app.use(cors({
-    origin: "http://localhost:5173", // Allow your frontend URL
+    origin: ['http://localhost:5173', 'https://teerexmark.netlify.app'], // Allow your frontend URL
     methods: "GET,POST,PUT,DELETE",
     allowedHeaders: "Content-Type,Authorization"
 }));
