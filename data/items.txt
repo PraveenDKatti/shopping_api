@@ -184,239 +184,219 @@
     "title": "Sports Shorts",
     "price": 999,
     "category": "sports",
-    "image": "https://images.pexels.com/photos/1805414/pexels-photo-1805414.jpeg",
+    "image": "https://m.media-amazon.com/images/I/61T1lxK-1-L._SX679_.jpg",
     "color": "Black",
     "quantity": 30,
     "gender": "Men",
-    "brand": "ActiveWear",
-    "type": "Shorts"
+    "brand": "ActiveWear"
   },
   {
     "id": 32,
     "title": "Fleece Jacket",
     "price": 3299,
     "category": "winter",
-    "image": "https://images.pexels.com/photos/325876/pexels-photo-325876.jpeg",
+    "image": "https://www.military1st.com/media/catalog/product/cache/c26ef0e09cf22f3fd91db024672786d9/B/r/Brandit-Teddyfleece-Jacket-Anthracite_1_1200x1200_3.jpg",
     "color": "Gray",
     "quantity": 12,
     "gender": "Men",
-    "brand": "WinterStyle",
-    "type": "Jacket"
+    "brand": "WinterStyle"
   },
   {
     "id": 33,
     "title": "Cotton Kurti",
     "price": 1999,
     "category": "traditional",
-    "image": "https://images.pexels.com/photos/1154690/pexels-photo-1154690.jpeg",
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230828/3VAi/64eca42dddf779151982c96c/-1117Wx1400H-466509600-pink-MODEL.jpg",
     "color": "Pink",
     "quantity": 14,
     "gender": "Women",
-    "brand": "EthnicChic",
-    "type": "Kurti"
+    "brand": "EthnicChic"
   },
   {
     "id": 34,
     "title": "Leather Belt",
     "price": 999,
     "category": "accessories",
-    "image": "https://images.pexels.com/photos/179909/pexels-photo-179909.jpeg",
+    "image": "https://m.media-amazon.com/images/I/71tx7jGJjuL._SX679_.jpg",
     "color": "Brown",
     "quantity": 20,
     "gender": "Men",
-    "brand": "BeltCo",
-    "type": "Belt"
+    "brand": "BeltCo"
   },
   {
     "id": 35,
     "title": "Ankle Boots",
     "price": 3499,
     "category": "footwear",
-    "image": "https://images.pexels.com/photos/267242/pexels-photo-267242.jpeg",
+    "image": "https://www.alamodelabel.in/cdn/shop/files/C5380AD7-CEAB-41F8-B251-FE291A80BD89_800x1067.jpg",
     "color": "Black",
     "quantity": 15,
     "gender": "Women",
-    "brand": "FootStyle",
-    "type": "Boots"
+    "brand": "FootStyle"
   },
   {
     "id": 36,
     "title": "Casual Sneakers",
     "price": 1999,
     "category": "footwear",
-    "image": "https://images.pexels.com/photos/2529147/pexels-photo-2529147.jpeg",
+    "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/e/n/d/10-white-leaf-10-urbanbox-white-black-original-imah9fauwe4adpth.jpeg",
     "color": "White",
     "quantity": 25,
     "gender": "Unisex",
-    "brand": "UrbanFeet",
-    "type": "Sneakers"
+    "brand": "UrbanFeet"
   },
   {
     "id": 37,
     "title": "Travel Backpack",
     "price": 2799,
     "category": "accessories",
-    "image": "https://images.pexels.com/photos/1667072/pexels-photo-1667072.jpeg",
+    "image": "https://media.victorinox.com/transform/d2f770e8-c0f3-4940-bd27-ebe3be9346ab/TGE_612119_S_PO-jpg",
     "color": "Gray",
     "quantity": 18,
     "gender": "Unisex",
-    "brand": "TravelGear",
-    "type": "Backpack"
+    "brand": "TravelGear"
   },
   {
     "id": 38,
     "title": "Woolen Scarf",
     "price": 799,
     "category": "winter",
-    "image": "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg",
+    "image": "https://i.etsystatic.com/21657310/r/il/3f9a35/6312153454/il_1588xN.6312153454_ei60.jpg",
     "color": "Red",
     "quantity": 22,
     "gender": "Women",
-    "brand": "CozyWrap",
-    "type": "Scarf"
+    "brand": "CozyWrap"
   },
   {
     "id": 39,
     "title": "Yoga Pants",
     "price": 1299,
     "category": "sports",
-    "image": "https://images.pexels.com/photos/4326888/pexels-photo-4326888.jpeg",
+    "image": "https://fitflex.in/cdn/shop/files/2_ef676f63-be53-448c-a92b-1dcc72d0acf2.jpg",
     "color": "Black",
     "quantity": 20,
     "gender": "Women",
-    "brand": "FitFlex",
-    "type": "Pants"
+    "brand": "FitFlex"
   },
   {
     "id": 40,
     "title": "Leather Handbag",
     "price": 3999,
     "category": "accessories",
-    "image": "https://images.pexels.com/photos/843252/pexels-photo-843252.jpeg",
+    "image": "https://michaelkors.scene7.com/is/image/MichaelKors/30F4GY5H1L-0220_1",
     "color": "Brown",
     "quantity": 12,
     "gender": "Women",
-    "brand": "LuxuryBag",
-    "type": "Handbag"
+    "brand": "LuxuryBag"
   },
   {
     "id": 41,
     "title": "Silk Necktie",
     "price": 699,
     "category": "formal",
-    "image": "https://images.pexels.com/photos/325876/pexels-photo-325876.jpeg",
+    "image": "https://m.media-amazon.com/images/I/71lTvVk6QoL._SX679_.jpg",
     "color": "Blue",
     "quantity": 30,
     "gender": "Men",
-    "brand": "ClassicTie",
-    "type": "Necktie"
+    "brand": "ClassicTie"
   },
   {
     "id": 42,
     "title": "Casual Loafers",
     "price": 2499,
     "category": "footwear",
-    "image": "https://images.pexels.com/photos/1124466/pexels-photo-1124466.jpeg",
+    "image": "https://mediahub.debenhams.com/m5063075219796_beige_xl_1.jpeg",
     "color": "Tan",
     "quantity": 16,
     "gender": "Men",
-    "brand": "LoaferStyle",
-    "type": "Shoes"
+    "brand": "LoaferStyle"
   },
   {
     "id": 43,
     "title": "Gym Duffel Bag",
     "price": 2199,
     "category": "accessories",
-    "image": "https://images.pexels.com/photos/1368144/pexels-photo-1368144.jpeg",
+    "image": "https://ioniamsda.com/cdn/shop/files/6132023139199217187_2048.jpg",
     "color": "Black",
     "quantity": 14,
     "gender": "Unisex",
-    "brand": "FitGear",
-    "type": "Bag"
+    "brand": "FitGear"
   },
   {
     "id": 44,
     "title": "Woolen Beanie",
     "price": 499,
     "category": "winter",
-    "image": "https://images.pexels.com/photos/704748/pexels-photo-704748.jpeg",
+    "image": "https://www.jiomart.com/images/product/original/rvljgeasrx/f-y-v-unisex-grey-woolen-cap-and-neck-warmer-l-for-men-women-l-caps-hats-beanie-cap-product-images-rvljgeasrx-0-202309041012.jpg",
     "color": "Gray",
     "quantity": 25,
     "gender": "Unisex",
-    "brand": "WarmWear",
-    "type": "Beanie"
+    "brand": "WarmWear"
   },
   {
     "id": 45,
     "title": "Sunglasses",
     "price": 1799,
     "category": "accessories",
-    "image": "https://images.pexels.com/photos/1162961/pexels-photo-1162961.jpeg",
+    "image": "https://royalson.in/wp-content/uploads/2022/02/6-Men-Women-Sunglasses-2-768x768.jpg",
     "color": "Black",
     "quantity": 22,
     "gender": "Unisex",
-    "brand": "SunStyle",
-    "type": "Sunglasses"
+    "brand": "SunStyle"
   },
   {
     "id": 46,
     "title": "Printed Kurti",
     "price": 1599,
     "category": "traditional",
-    "image": "https://images.pexels.com/photos/1639673/pexels-photo-1639673.jpeg",
+    "image": "https://mirchi-fashion-bucket.s3.ap-south-1.amazonaws.com/Kurti%20&%20Kurta%20Set/K9191G.jpg",
     "color": "Yellow",
     "quantity": 18,
     "gender": "Women",
-    "brand": "EthnicVibe",
-    "type": "Kurti"
+    "brand": "EthnicVibe"
   },
   {
     "id": 47,
     "title": "Wrist Bracelet",
     "price": 899,
     "category": "accessories",
-    "image": "https://images.pexels.com/photos/220383/pexels-photo-220383.jpeg",
+    "image": "https://s13emagst.akamaized.net/products/58315/58314920/images/res_d15fb8f7f17cd22687886fc94ba79737.jpg",
     "color": "Silver",
     "quantity": 15,
     "gender": "Unisex",
-    "brand": "CharmStyle",
-    "type": "Bracelet"
+    "brand": "CharmStyle"
   },
   {
     "id": 48,
     "title": "Formal Blazer",
     "price": 4599,
     "category": "formal",
-    "image": "https://images.pexels.com/photos/2916815/pexels-photo-2916815.jpeg",
+    "image": "https://treyondworld.com/wp-content/uploads/2024/01/1000040105.jpg",
     "color": "Navy Blue",
     "quantity": 10,
     "gender": "Men",
-    "brand": "ExecutiveWear",
-    "type": "Blazer"
+    "brand": "ExecutiveWear"
   },
   {
     "id": 49,
     "title": "Sports Tracksuit",
     "price": 2999,
     "category": "sports",
-    "image": "https://images.pexels.com/photos/4047010/pexels-photo-4047010.jpeg",
+    "image": "https://assets.ajio.com/medias/sys_master/root/h4d/he7/13742329102366/-1117Wx1400H-460395370-black-MODEL.jpg",
     "color": "Gray & Black",
     "quantity": 20,
     "gender": "Unisex",
-    "brand": "ActiveStyle",
-    "type": "Tracksuit"
+    "brand": "ActiveStyle"
   },
   {
     "id": 50,
     "title": "Cotton Pyjamas",
     "price": 999,
     "category": "casual",
-    "image": "https://images.pexels.com/photos/7697311/pexels-photo-7697311.jpeg",
+    "image": "https://www.nabia.in/cdn/shop/files/1_5721dfd0-7e31-48fa-903d-c99fa75915d3.jpg",
     "color": "White",
     "quantity": 24,
     "gender": "Unisex",
-    "brand": "CozyNights",
-    "type": "Pyjamas"
+    "brand": "CozyNights"
   }
 ]
