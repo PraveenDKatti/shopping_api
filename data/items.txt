@@ -1,24 +1,222 @@
 [
-    { "id": 1, "title": "Classic Polo T-Shirt", "price": 599, "category": "summer", "image": "https://classicpolos.com/cdn/shop/files/1_febffc10-b17c-4b6c-a928-165949e91bf7.jpg?", "color": "White", "quantity": 20, "gender": "Men", "brand": "PoloStyle" },
-    { "id": 2, "title": "Denim Jacket", "price": 1999, "category": "winter", "image": "https://assets.ajio.com/medias/sys_master/root/20240906/XN2x/66dada2b1d763220faca109e/-1117Wx1400H-442660016-mediumblue-MODEL.jpg", "color": "Blue", "quantity": 15, "gender": "Women", "brand": "DenimCo" },
-    { "id": 3, "title": "Running Shoes", "price": 2499, "category": "sports", "image": "https://rukminim2.flixcart.com/image/832/832/k5fn3ww0/shoe/f/6/9/ar-203-7-runfast-grey-original-imafnwjhwd5umaxb.jpeg", "color": "Black", "quantity": 30, "gender": "Unisex", "brand": "RunFast" },
-    { "id": 4, "title": "Leather Wallet", "price": 899, "category": "accessories", "image": "https://imagescdn.louisphilippe.com/img/app/product/6/670304-6924404.jpg", "color": "Brown", "quantity": 25, "gender": "Men", "brand": "LeatherPro" },
-    { "id": 5, "title": "Floral Summer Dress", "price": 1499, "category": "summer", "image": "https://mediahub.oasisfashion.com/m5063282069498_red_xl.jpeg", "color": "Red", "quantity": 18, "gender": "Women", "brand": "FashionTrend" },
-    { "id": 6, "title": "Slim Fit Jeans", "price": 1699, "category": "casual", "image": "https://assets.ajio.com/medias/sys_master/root/20230629/7OAI/649cd7e0a9b42d15c91ce3eb/-1117Wx1400H-466032127-blue-MODEL2.jpg", "color": "Blue", "quantity": 22, "gender": "Men", "brand": "DenimX" },
-    { "id": 7, "title": "Cargo Pants", "price": 1299, "category": "casual", "image": "https://www.beyoung.in/api/cache/catalog/products/new_chinos_update_image_23_9_2022/dark_green_cut_and_sew_cargo_pants_front_view_04_10_2024_700x933.jpg", "color": "Green", "quantity": 17, "gender": "Men", "brand": "UrbanWear" },
-    { "id": 8, "title": "Athletic Leggings", "price": 1199, "category": "sports", "image": "https://i0.wp.com/nexgoindustries.com/wp-content/uploads/2024/03/1.webp", "color": "Black", "quantity": 20, "gender": "Women", "brand": "FlexFit" },
-    { "id": 9, "title": "Formal Trousers", "price": 1899, "category": "formal", "image": "https://assets.ajio.com/medias/sys_master/root/20231209/KPxu/657396dbddf7791519bea7cf/-473Wx593H-466865684-grey-MODEL4.jpg", "color": "Gray", "quantity": 12, "gender": "Men", "brand": "ExecutiveStyle" },
-    { "id": 10, "title": "Summer Shorts", "price": 799, "category": "casual", "image": "https://www.iconicindia.com/cdn/shop/files/8907361677730_4.jpg", "color": "Beige", "quantity": 25, "gender": "Men", "brand": "CasualVibe" },
-    { "id": 11, "title": "Casual Hoodie", "price": 2299, "category": "winter", "image": "https://i5.walmartimages.com/asr/b87e3730-f5d8-4489-ac50-dd594435a1f2.f744c1f65964c239ed343968a5824fdd.jpeg", "color": "Gray", "quantity": 16, "gender": "Unisex", "brand": "CozyWear" },
-    { "id": 12, "title": "Striped Cotton Shirt", "price": 1399, "category": "formal", "image": "https://assets.ajio.com/medias/sys_master/root/20240228/6VZy/65df375916fd2c6e6a285e80/-473Wx593H-467118969-blue-MODEL2.jpg", "color": "White & Blue", "quantity": 14, "gender": "Men", "brand": "ClassicStyle" },
-    { "id": 13, "title": "Printed Saree", "price": 2599, "category": "traditional", "image": "https://www.ethnicplus.in/media/catalog/product/cache/52dd409f45ea6af9973d8318037be7e6/a/c/acz5053.jpg", "color": "Pink", "quantity": 10, "gender": "Women", "brand": "EthnicVibe" },
-    { "id": 14, "title": "Sports Cap", "price": 499, "category": "accessories", "image": "https://m.media-amazon.com/images/I/51gAhdijjhL._AC_SX679_.jpg", "color": "Red", "quantity": 30, "gender": "Unisex", "brand": "Sporty" },
-    { "id": 15, "title": "Wrist Watch", "price": 3499, "category": "accessories", "image": "https://benling.in/cdn/shop/files/BL-1024-BLK_1_2_611x@2x.progressive.jpg", "color": "Black", "quantity": 8, "gender": "Men", "brand": "TimeMaster" },
-
-  {"id": 16,
+  {
+    "id": 1,
+    "title": "Classic Polo T-Shirt",
+    "price": 599,
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
+    "image": "https://classicpolos.com/cdn/shop/files/1_febffc10-b17c-4b6c-a928-165949e91bf7.jpg?",
+    "color": "White",
+    "quantity": 20,
+    "gender": "Men",
+    "brand": "PoloStyle"
+  },
+  {
+    "id": 2,
+    "title": "Denim Jacket",
+    "price": 1999,
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
+    "image": "https://assets.ajio.com/medias/sys_master/root/20240906/XN2x/66dada2b1d763220faca109e/-1117Wx1400H-442660016-mediumblue-MODEL.jpg",
+    "color": "Blue",
+    "quantity": 15,
+    "gender": "Women",
+    "brand": "DenimCo"
+  },
+  {
+    "id": 3,
+    "title": "Running Shoes",
+    "price": 2499,
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
+    "image": "https://rukminim2.flixcart.com/image/832/832/k5fn3ww0/shoe/f/6/9/ar-203-7-runfast-grey-original-imafnwjhwd5umaxb.jpeg",
+    "color": "Black",
+    "quantity": 30,
+    "gender": "Unisex",
+    "brand": "RunFast"
+  },
+  {
+    "id": 4,
+    "title": "Leather Wallet",
+    "price": 899,
+    "category": {
+      "main": "Fashion",
+      "sub": "Accessories"
+    },
+    "image": "https://imagescdn.louisphilippe.com/img/app/product/6/670304-6924404.jpg",
+    "color": "Brown",
+    "quantity": 25,
+    "gender": "Men",
+    "brand": "LeatherPro"
+  },
+  {
+    "id": 5,
+    "title": "Floral Summer Dress",
+    "price": 1499,
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
+    "image": "https://mediahub.oasisfashion.com/m5063282069498_red_xl.jpeg",
+    "color": "Red",
+    "quantity": 18,
+    "gender": "Women",
+    "brand": "FashionTrend"
+  },
+  {
+    "id": 6,
+    "title": "Slim Fit Jeans",
+    "price": 1699,
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230629/7OAI/649cd7e0a9b42d15c91ce3eb/-1117Wx1400H-466032127-blue-MODEL2.jpg",
+    "color": "Blue",
+    "quantity": 22,
+    "gender": "Men",
+    "brand": "DenimX"
+  },
+  {
+    "id": 7,
+    "title": "Cargo Pants",
+    "price": 1299,
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
+    "image": "https://www.beyoung.in/api/cache/catalog/products/new_chinos_update_image_23_9_2022/dark_green_cut_and_sew_cargo_pants_front_view_04_10_2024_700x933.jpg",
+    "color": "Green",
+    "quantity": 17,
+    "gender": "Men",
+    "brand": "UrbanWear"
+  },
+  {
+    "id": 8,
+    "title": "Athletic Leggings",
+    "price": 1199,
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
+    "image": "https://i0.wp.com/nexgoindustries.com/wp-content/uploads/2024/03/1.webp",
+    "color": "Black",
+    "quantity": 20,
+    "gender": "Women",
+    "brand": "FlexFit"
+  },
+  {
+    "id": 9,
+    "title": "Formal Trousers",
+    "price": 1899,
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
+    "image": "https://assets.ajio.com/medias/sys_master/root/20231209/KPxu/657396dbddf7791519bea7cf/-473Wx593H-466865684-grey-MODEL4.jpg",
+    "color": "Gray",
+    "quantity": 12,
+    "gender": "Men",
+    "brand": "ExecutiveStyle"
+  },
+  {
+    "id": 10,
+    "title": "Summer Shorts",
+    "price": 799,
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
+    "image": "https://www.iconicindia.com/cdn/shop/files/8907361677730_4.jpg",
+    "color": "Beige",
+    "quantity": 25,
+    "gender": "Men",
+    "brand": "CasualVibe"
+  },
+  {
+    "id": 11,
+    "title": "Casual Hoodie",
+    "price": 2299,
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
+    "image": "https://i5.walmartimages.com/asr/b87e3730-f5d8-4489-ac50-dd594435a1f2.f744c1f65964c239ed343968a5824fdd.jpeg",
+    "color": "Gray",
+    "quantity": 16,
+    "gender": "Unisex",
+    "brand": "CozyWear"
+  },
+  {
+    "id": 12,
+    "title": "Striped Cotton Shirt",
+    "price": 1399,
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
+    "image": "https://assets.ajio.com/medias/sys_master/root/20240228/6VZy/65df375916fd2c6e6a285e80/-473Wx593H-467118969-blue-MODEL2.jpg",
+    "color": "White & Blue",
+    "quantity": 14,
+    "gender": "Men",
+    "brand": "ClassicStyle"
+  },
+  {
+    "id": 13,
+    "title": "Printed Saree",
+    "price": 2599,
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
+    "image": "https://www.ethnicplus.in/media/catalog/product/cache/52dd409f45ea6af9973d8318037be7e6/a/c/acz5053.jpg",
+    "color": "Pink",
+    "quantity": 10,
+    "gender": "Women",
+    "brand": "EthnicVibe"
+  },
+  {
+    "id": 14,
+    "title": "Sports Cap",
+    "price": 499,
+    "category": {
+      "main": "Fashion",
+      "sub": "Accessories"
+    },
+    "image": "https://m.media-amazon.com/images/I/51gAhdijjhL._AC_SX679_.jpg",
+    "color": "Red",
+    "quantity": 30,
+    "gender": "Unisex",
+    "brand": "Sporty"
+  },
+  {
+    "id": 15,
+    "title": "Wrist Watch",
+    "price": 3499,
+    "category": {
+      "main": "Fashion",
+      "sub": "Accessories"
+    },
+    "image": "https://benling.in/cdn/shop/files/BL-1024-BLK_1_2_611x@2x.progressive.jpg",
+    "color": "Black",
+    "quantity": 8,
+    "gender": "Men",
+    "brand": "TimeMaster"
+  },
+  {
+    "id": 16,
     "title": "Leather Handbag",
     "price": 2999,
-    "category": "accessories",
+    "category": {
+      "main": "Fashion",
+      "sub": "Accessories"
+    },
     "image": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dwa14c9ab7/images/large/01_32001750013_1.jpg",
     "color": "Brown",
     "quantity": 10,
@@ -29,7 +227,10 @@
     "id": 17,
     "title": "High Heels",
     "price": 2799,
-    "category": "footwear",
+    "category": {
+      "main": "Fashion",
+      "sub": "Footwear"
+    },
     "image": "https://i5.walmartimages.com/asr/7b84f482-a079-422c-9aaa-cebad1feb065.fa8144f9a286593a0a7ed255ac41dfac.jpeg",
     "color": "Red",
     "quantity": 15,
@@ -40,7 +241,10 @@
     "id": 18,
     "title": "Aviator Sunglasses",
     "price": 1999,
-    "category": "accessories",
+    "category": {
+      "main": "Fashion",
+      "sub": "Accessories"
+    },
     "image": "https://jokerandwitch.com/cdn/shop/files/JWSG110_2_1800x1800.jpg",
     "color": "Black",
     "quantity": 25,
@@ -51,7 +255,10 @@
     "id": 19,
     "title": "Casual Sneakers",
     "price": 2299,
-    "category": "footwear",
+    "category": {
+      "main": "Fashion",
+      "sub": "Footwear"
+    },
     "image": "https://img.tatacliq.com/images/i18//437Wx649H/MP000000022742851_437Wx649H_202406290122076.jpeg",
     "color": "White",
     "quantity": 20,
@@ -62,7 +269,10 @@
     "id": 20,
     "title": "Woolen Scarf",
     "price": 999,
-    "category": "winter",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://woollen-wear.in/image/cache/data/accessories/mufflers/purewool/m932_black-550x700.JPG",
     "color": "Gray",
     "quantity": 18,
@@ -73,7 +283,10 @@
     "id": 21,
     "title": "Ethnic Kurta",
     "price": 1899,
-    "category": "traditional",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/19952438/2022/9/14/81c85a0e-ddad-4d0b-b649-5cd9714ab03e1663144762603evenMenYellowThreadWorkKurta1.jpg",
     "color": "Yellow",
     "quantity": 12,
@@ -84,7 +297,10 @@
     "id": 22,
     "title": "Gym T-Shirt",
     "price": 999,
-    "category": "sports",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://fitkin.in/cdn/shop/products/1_2a5428b8-d6a2-47fb-b9b3-0c21fb9c7b86.jpg",
     "color": "Black",
     "quantity": 22,
@@ -95,7 +311,10 @@
     "id": 23,
     "title": "Jogger Pants",
     "price": 1499,
-    "category": "casual",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://cdn1.staticans.com/image/data/Vastrado/3-nov-2023/MJ3484C_6.jpg",
     "color": "Gray",
     "quantity": 20,
@@ -106,7 +325,10 @@
     "id": 24,
     "title": "Trench Coat",
     "price": 3499,
-    "category": "winter",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://assets.christiandior.com/is/image/diorprod/841M55A3332X1700_E01-1",
     "color": "Beige",
     "quantity": 10,
@@ -117,7 +339,10 @@
     "id": 25,
     "title": "Beach Hat",
     "price": 799,
-    "category": "summer",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://americanhatmakers.com/cdn/shop/files/Johvan-Natural-Straw-Sun-Hat-Ladies-SS23-American-Hat-Makers_3.webp",
     "color": "Beige",
     "quantity": 30,
@@ -128,7 +353,10 @@
     "id": 26,
     "title": "Smartwatch",
     "price": 4999,
-    "category": "electronics",
+    "category": {
+      "main": "Electronics",
+      "sub": "Smartwatches"
+    },
     "image": "https://cyber-techwear.com/cdn/shop/products/product-image-1976673464.jpg",
     "color": "Black",
     "quantity": 15,
@@ -139,7 +367,10 @@
     "id": 27,
     "title": "Party Gown",
     "price": 4599,
-    "category": "party",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://cdn.sareesaga.com/image/cache/product-2025/purple-color-designer-gown-282293-1000x1375.jpg",
     "color": "Purple",
     "quantity": 8,
@@ -150,7 +381,10 @@
     "id": 28,
     "title": "Leather Belt",
     "price": 1299,
-    "category": "accessories",
+    "category": {
+      "main": "Fashion",
+      "sub": "Accessories"
+    },
     "image": "https://d1pdzcnm6xgxlz.cloudfront.net/fashionaccesories/8905875204817-9.jpg",
     "color": "Black",
     "quantity": 18,
@@ -161,7 +395,10 @@
     "id": 29,
     "title": "Woolen Gloves",
     "price": 999,
-    "category": "winter",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://woollen-wear.in/image/cache/data/accessories/men/gloves/h720/h720_lightgrey_front-550x700.JPG",
     "color": "Gray",
     "quantity": 25,
@@ -172,7 +409,10 @@
     "id": 30,
     "title": "Casual Backpack",
     "price": 2799,
-    "category": "accessories",
+    "category": {
+      "main": "Fashion",
+      "sub": "Accessories"
+    },
     "image": "https://img.tatacliq.com/images/i19//437Wx649H/MP000000023320093_437Wx649H_202408152137541.jpeg",
     "color": "Blue",
     "quantity": 15,
@@ -183,7 +423,10 @@
     "id": 31,
     "title": "Sports Shorts",
     "price": 999,
-    "category": "sports",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://m.media-amazon.com/images/I/61T1lxK-1-L._SX679_.jpg",
     "color": "Black",
     "quantity": 30,
@@ -194,7 +437,10 @@
     "id": 32,
     "title": "Fleece Jacket",
     "price": 3299,
-    "category": "winter",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://www.military1st.com/media/catalog/product/cache/c26ef0e09cf22f3fd91db024672786d9/B/r/Brandit-Teddyfleece-Jacket-Anthracite_1_1200x1200_3.jpg",
     "color": "Gray",
     "quantity": 12,
@@ -205,7 +451,10 @@
     "id": 33,
     "title": "Cotton Kurti",
     "price": 1999,
-    "category": "traditional",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://assets.ajio.com/medias/sys_master/root/20230828/3VAi/64eca42dddf779151982c96c/-1117Wx1400H-466509600-pink-MODEL.jpg",
     "color": "Pink",
     "quantity": 14,
@@ -216,7 +465,10 @@
     "id": 34,
     "title": "Leather Belt",
     "price": 999,
-    "category": "accessories",
+    "category": {
+      "main": "Fashion",
+      "sub": "Accessories"
+    },
     "image": "https://m.media-amazon.com/images/I/71tx7jGJjuL._SX679_.jpg",
     "color": "Brown",
     "quantity": 20,
@@ -227,7 +479,10 @@
     "id": 35,
     "title": "Ankle Boots",
     "price": 3499,
-    "category": "footwear",
+    "category": {
+      "main": "Fashion",
+      "sub": "Footwear"
+    },
     "image": "https://www.alamodelabel.in/cdn/shop/files/C5380AD7-CEAB-41F8-B251-FE291A80BD89_800x1067.jpg",
     "color": "Black",
     "quantity": 15,
@@ -238,7 +493,10 @@
     "id": 36,
     "title": "Casual Sneakers",
     "price": 1999,
-    "category": "footwear",
+    "category": {
+      "main": "Fashion",
+      "sub": "Footwear"
+    },
     "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/e/n/d/10-white-leaf-10-urbanbox-white-black-original-imah9fauwe4adpth.jpeg",
     "color": "White",
     "quantity": 25,
@@ -249,7 +507,10 @@
     "id": 37,
     "title": "Travel Backpack",
     "price": 2799,
-    "category": "accessories",
+    "category": {
+      "main": "Fashion",
+      "sub": "Accessories"
+    },
     "image": "https://media.victorinox.com/transform/d2f770e8-c0f3-4940-bd27-ebe3be9346ab/TGE_612119_S_PO-jpg",
     "color": "Gray",
     "quantity": 18,
@@ -260,7 +521,10 @@
     "id": 38,
     "title": "Woolen Scarf",
     "price": 799,
-    "category": "winter",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://i.etsystatic.com/21657310/r/il/3f9a35/6312153454/il_1588xN.6312153454_ei60.jpg",
     "color": "Red",
     "quantity": 22,
@@ -271,7 +535,10 @@
     "id": 39,
     "title": "Yoga Pants",
     "price": 1299,
-    "category": "sports",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://fitflex.in/cdn/shop/files/2_ef676f63-be53-448c-a92b-1dcc72d0acf2.jpg",
     "color": "Black",
     "quantity": 20,
@@ -282,7 +549,10 @@
     "id": 40,
     "title": "Leather Handbag",
     "price": 3999,
-    "category": "accessories",
+    "category": {
+      "main": "Fashion",
+      "sub": "Accessories"
+    },
     "image": "https://michaelkors.scene7.com/is/image/MichaelKors/30F4GY5H1L-0220_1",
     "color": "Brown",
     "quantity": 12,
@@ -293,7 +563,10 @@
     "id": 41,
     "title": "Silk Necktie",
     "price": 699,
-    "category": "formal",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://m.media-amazon.com/images/I/71lTvVk6QoL._SX679_.jpg",
     "color": "Blue",
     "quantity": 30,
@@ -304,7 +577,10 @@
     "id": 42,
     "title": "Casual Loafers",
     "price": 2499,
-    "category": "footwear",
+    "category": {
+      "main": "Fashion",
+      "sub": "Footwear"
+    },
     "image": "https://mediahub.debenhams.com/m5063075219796_beige_xl_1.jpeg",
     "color": "Tan",
     "quantity": 16,
@@ -315,7 +591,10 @@
     "id": 43,
     "title": "Gym Duffel Bag",
     "price": 2199,
-    "category": "accessories",
+    "category": {
+      "main": "Fashion",
+      "sub": "Accessories"
+    },
     "image": "https://ioniamsda.com/cdn/shop/files/6132023139199217187_2048.jpg",
     "color": "Black",
     "quantity": 14,
@@ -326,7 +605,10 @@
     "id": 44,
     "title": "Woolen Beanie",
     "price": 499,
-    "category": "winter",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://www.jiomart.com/images/product/original/rvljgeasrx/f-y-v-unisex-grey-woolen-cap-and-neck-warmer-l-for-men-women-l-caps-hats-beanie-cap-product-images-rvljgeasrx-0-202309041012.jpg",
     "color": "Gray",
     "quantity": 25,
@@ -337,7 +619,10 @@
     "id": 45,
     "title": "Sunglasses",
     "price": 1799,
-    "category": "accessories",
+    "category": {
+      "main": "Fashion",
+      "sub": "Accessories"
+    },
     "image": "https://royalson.in/wp-content/uploads/2022/02/6-Men-Women-Sunglasses-2-768x768.jpg",
     "color": "Black",
     "quantity": 22,
@@ -348,7 +633,10 @@
     "id": 46,
     "title": "Printed Kurti",
     "price": 1599,
-    "category": "traditional",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://mirchi-fashion-bucket.s3.ap-south-1.amazonaws.com/Kurti%20&%20Kurta%20Set/K9191G.jpg",
     "color": "Yellow",
     "quantity": 18,
@@ -359,7 +647,10 @@
     "id": 47,
     "title": "Wrist Bracelet",
     "price": 899,
-    "category": "accessories",
+    "category": {
+      "main": "Fashion",
+      "sub": "Accessories"
+    },
     "image": "https://s13emagst.akamaized.net/products/58315/58314920/images/res_d15fb8f7f17cd22687886fc94ba79737.jpg",
     "color": "Silver",
     "quantity": 15,
@@ -370,7 +661,10 @@
     "id": 48,
     "title": "Formal Blazer",
     "price": 4599,
-    "category": "formal",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://treyondworld.com/wp-content/uploads/2024/01/1000040105.jpg",
     "color": "Navy Blue",
     "quantity": 10,
@@ -381,7 +675,10 @@
     "id": 49,
     "title": "Sports Tracksuit",
     "price": 2999,
-    "category": "sports",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://assets.ajio.com/medias/sys_master/root/h4d/he7/13742329102366/-1117Wx1400H-460395370-black-MODEL.jpg",
     "color": "Gray & Black",
     "quantity": 20,
@@ -392,7 +689,10 @@
     "id": 50,
     "title": "Cotton Pyjamas",
     "price": 999,
-    "category": "casual",
+    "category": {
+      "main": "Fashion",
+      "sub": "Clothing"
+    },
     "image": "https://www.nabia.in/cdn/shop/files/1_5721dfd0-7e31-48fa-903d-c99fa75915d3.jpg",
     "color": "White",
     "quantity": 24,
