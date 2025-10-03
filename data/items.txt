@@ -105,7 +105,7 @@
       "main": "Fashion",
       "sub": "Clothing"
     },
-    "image": "https://i0.wp.com/nexgoindustries.com/wp-content/uploads/2024/03/1.webp",
+    "image": "https://contents.mediadecathlon.com/p1674117/c2b3965d22c8091ddce8a2edba3d7b2d/p1674117.jpg",
     "color": "Black",
     "quantity": 20,
     "gender": "Women",
@@ -175,7 +175,7 @@
       "main": "Fashion",
       "sub": "Clothing"
     },
-    "image": "https://www.ethnicplus.in/media/catalog/product/cache/52dd409f45ea6af9973d8318037be7e6/a/c/acz5053.jpg",
+    "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17779020/2022/4/6/cc63cdc3-73ae-4e91-a81c-f42b1dbd9cf51649240536440VAIRAGEEWomenPinkSarees2.jpg",
     "color": "Pink",
     "quantity": 10,
     "gender": "Women",
@@ -623,7 +623,7 @@
       "main": "Fashion",
       "sub": "Accessories"
     },
-    "image": "https://royalson.in/wp-content/uploads/2022/02/6-Men-Women-Sunglasses-2-768x768.jpg",
+    "image": "https://moonx.in/cdn/shop/files/MoonX_Celebrity_Black_MoonX_Eyewear_Sunglasses_for_men_and_women.1jpg.jpg",
     "color": "Black",
     "quantity": 22,
     "gender": "Unisex",
@@ -637,7 +637,7 @@
       "main": "Fashion",
       "sub": "Clothing"
     },
-    "image": "https://mirchi-fashion-bucket.s3.ap-south-1.amazonaws.com/Kurti%20&%20Kurta%20Set/K9191G.jpg",
+    "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/20123094/2022/9/22/5e4ec901-3006-4a7f-b5a3-fd13b82d80a81663829777559KurtaSets1.jpg",
     "color": "Yellow",
     "quantity": 18,
     "gender": "Women",
