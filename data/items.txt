@@ -315,7 +315,7 @@
       "main": "Fashion",
       "sub": "Clothing"
     },
-    "image": "https://cdn1.staticans.com/image/data/Vastrado/3-nov-2023/MJ3484C_6.jpg",
+    "image": "https://contents.mediadecathlon.com/p2731085/aa6f13e4401500b53d121940e586be9f/p2731085.jpg",
     "color": "Gray",
     "quantity": 20,
     "gender": "Men",
@@ -595,11 +595,11 @@
       "main": "Fashion",
       "sub": "Accessories"
     },
-    "image": "https://ioniamsda.com/cdn/shop/files/6132023139199217187_2048.jpg",
+    "image": "https://images-static.nykaa.com/media/catalog/product/2/7/273d914TOMAA00027397_1.jpg",
     "color": "Black",
     "quantity": 14,
     "gender": "Unisex",
-    "brand": "FitGear"
+    "brand": "Tommy Hilfiger"
   },
   {
     "id": 44,
