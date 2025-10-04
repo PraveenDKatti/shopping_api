@@ -11,7 +11,7 @@
     "color": "White",
     "quantity": 20,
     "gender": "Men",
-    "brand": "PoloStyle"
+    "brand": "ClassicStyle"
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
     "color": "Blue",
     "quantity": 15,
     "gender": "Women",
-    "brand": "DenimCo"
+    "brand": "DenimX"
   },
   {
     "id": 3,
@@ -39,7 +39,7 @@
     "color": "Black",
     "quantity": 30,
     "gender": "Unisex",
-    "brand": "RunFast"
+    "brand": "ActiveWear"
   },
   {
     "id": 4,
@@ -67,7 +67,7 @@
     "color": "Red",
     "quantity": 18,
     "gender": "Women",
-    "brand": "FashionTrend"
+    "brand": "UrbanWear"
   },
   {
     "id": 6,
@@ -179,7 +179,7 @@
     "color": "Pink",
     "quantity": 10,
     "gender": "Women",
-    "brand": "EthnicVibe"
+    "brand": "EthnicWear"
   },
   {
     "id": 14,
@@ -249,7 +249,7 @@
     "color": "Black",
     "quantity": 25,
     "gender": "Unisex",
-    "brand": "ShadyVision"
+    "brand": "TimeMaster"
   },
   {
     "id": 19,
@@ -305,7 +305,7 @@
     "color": "Black",
     "quantity": 22,
     "gender": "Men",
-    "brand": "FitWear"
+    "brand": "ActiveWear"
   },
   {
     "id": 23,
@@ -319,7 +319,7 @@
     "color": "Gray",
     "quantity": 20,
     "gender": "Men",
-    "brand": "StreetVibe"
+    "brand": "UrbanWear"
   },
   {
     "id": 24,
@@ -347,7 +347,7 @@
     "color": "Beige",
     "quantity": 30,
     "gender": "Women",
-    "brand": "SunnyVibes"
+    "brand": "UrbanWear"
   },
   {
     "id": 26,
@@ -375,7 +375,7 @@
     "color": "Purple",
     "quantity": 8,
     "gender": "Women",
-    "brand": "GlamGown"
+    "brand": "ElegantWear"
   },
   {
     "id": 28,
@@ -389,7 +389,7 @@
     "color": "Black",
     "quantity": 18,
     "gender": "Men",
-    "brand": "ClassicLeather"
+    "brand": "LeatherPro"
   },
   {
     "id": 29,
@@ -403,7 +403,7 @@
     "color": "Gray",
     "quantity": 25,
     "gender": "Unisex",
-    "brand": "WarmHands"
+    "brand": "WarmTouch"
   },
   {
     "id": 30,
@@ -417,7 +417,7 @@
     "color": "Blue",
     "quantity": 15,
     "gender": "Unisex",
-    "brand": "TravelEase"
+    "brand": "TravelGear"
   },
   {
     "id": 31,
@@ -459,7 +459,7 @@
     "color": "Pink",
     "quantity": 14,
     "gender": "Women",
-    "brand": "EthnicChic"
+    "brand": "EthnicWear"
   },
   {
     "id": 34,
@@ -473,7 +473,7 @@
     "color": "Brown",
     "quantity": 20,
     "gender": "Men",
-    "brand": "BeltCo"
+    "brand": "FitGear"
   },
   {
     "id": 35,
@@ -487,7 +487,7 @@
     "color": "Black",
     "quantity": 15,
     "gender": "Women",
-    "brand": "FootStyle"
+    "brand": "GlamStyle"
   },
   {
     "id": 36,
@@ -501,7 +501,7 @@
     "color": "White",
     "quantity": 25,
     "gender": "Unisex",
-    "brand": "UrbanFeet"
+    "brand": "UrbanSteps"
   },
   {
     "id": 37,
@@ -529,7 +529,7 @@
     "color": "Red",
     "quantity": 22,
     "gender": "Women",
-    "brand": "CozyWrap"
+    "brand": "CozyWear"
   },
   {
     "id": 39,
@@ -543,7 +543,7 @@
     "color": "Black",
     "quantity": 20,
     "gender": "Women",
-    "brand": "FitFlex"
+    "brand": "ActiveWear"
   },
   {
     "id": 40,
@@ -557,7 +557,7 @@
     "color": "Brown",
     "quantity": 12,
     "gender": "Women",
-    "brand": "LuxuryBag"
+    "brand": "EliteBags"
   },
   {
     "id": 41,
@@ -571,7 +571,7 @@
     "color": "Blue",
     "quantity": 30,
     "gender": "Men",
-    "brand": "ClassicTie"
+    "brand": "ClassicStyle"
   },
   {
     "id": 42,
@@ -585,7 +585,7 @@
     "color": "Tan",
     "quantity": 16,
     "gender": "Men",
-    "brand": "LoaferStyle"
+    "brand": "GlamStyle"
   },
   {
     "id": 43,
@@ -613,7 +613,7 @@
     "color": "Gray",
     "quantity": 25,
     "gender": "Unisex",
-    "brand": "WarmWear"
+    "brand": "WarmTouch"
   },
   {
     "id": 45,
@@ -627,7 +627,7 @@
     "color": "Black",
     "quantity": 22,
     "gender": "Unisex",
-    "brand": "SunStyle"
+    "brand": "TimeMaster"
   },
   {
     "id": 46,
@@ -641,7 +641,7 @@
     "color": "Yellow",
     "quantity": 18,
     "gender": "Women",
-    "brand": "EthnicVibe"
+    "brand": "EthnicWear"
   },
   {
     "id": 47,
@@ -655,7 +655,7 @@
     "color": "Silver",
     "quantity": 15,
     "gender": "Unisex",
-    "brand": "CharmStyle"
+    "brand": "TimeMaster"
   },
   {
     "id": 48,
@@ -669,7 +669,7 @@
     "color": "Navy Blue",
     "quantity": 10,
     "gender": "Men",
-    "brand": "ExecutiveWear"
+    "brand": "ExecutiveStyle"
   },
   {
     "id": 49,
@@ -683,7 +683,7 @@
     "color": "Gray & Black",
     "quantity": 20,
     "gender": "Unisex",
-    "brand": "ActiveStyle"
+    "brand": "ActiveWear"
   },
   {
     "id": 50,
@@ -697,6 +697,6 @@
     "color": "White",
     "quantity": 24,
     "gender": "Unisex",
-    "brand": "CozyNights"
+    "brand": "CozyWear"
   }
 ]
